@@ -1,6 +1,6 @@
-# ruff
+# Ruff - Postulación
 
-Algoritmo de maximización de paneles solares
+##Algoritmo de maximización de paneles solares
 -------------------------------------------
 
 Este código en Python implementa un algoritmo para calcular la máxima cantidad de paneles solares rectangulares que se pueden colocar en un techo rectangular, dado las dimensiones de los paneles y las dimensiones del techo.
